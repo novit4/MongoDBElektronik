@@ -1,7 +1,7 @@
 
 ## Struktur Proyek
 ```
-nestjs-products-crud/
+nestjs-elektronik-crud/
 ├── src/
 │   ├── app.module.ts
 │   ├── main.ts
